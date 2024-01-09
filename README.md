@@ -5,11 +5,10 @@
 
 
 这是一个cron表达式生成插件,基于vue3.0与element-plus实现
-[demo](https://githubs.club/my-cron-vue3/)
 
 ## 项目地址
 
-- github : https://github.com/sugdove/my-cron-vue3
+- [github : https://github.com/sugdove/my-cron-vue3](https://github.com/wupengwupeng/my-cron-vue3)
 
 - github项目启动: 1.yarn install 2.yarn serve
 
@@ -138,12 +137,3 @@ export default defineComponent ({
     
     当点击corn表达式选择框取消按钮时触发
     
-## 联系方式
-
-邮箱 : 849809724@qq.com
-
-欢迎大家关注我做的网站: https://githubs.club/
-
-如果对您有帮助, 欢迎star
-
-有任何问题请发Issues或者邮箱联系我-.-  谢谢!
